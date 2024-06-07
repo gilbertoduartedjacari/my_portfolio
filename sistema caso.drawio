@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T11:51:40.337Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="uyRwjb7EBo0N43ePXqnT" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T11:52:22.983Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="iuka-iAi8Zhz5GMCFofb" version="24.5.1" type="github">
   <diagram name="Página-1" id="G7U0K-YmqGsla3E6vOUf">
     <mxGraphModel dx="919" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="50" y="450" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Kl7VoFIh9Dd8XK4XTmcx-9" value="&lt;div style=&quot;box-sizing:border-box;width:100%;background:#e4e4e4;padding:2px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Comentario&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;comentario&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;consulta&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;fieldname&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="600" y="590" width="180" height="90" as="geometry" />
+          <mxGeometry x="600" y="585" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Kl7VoFIh9Dd8XK4XTmcx-10" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=-0.006;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.989;exitY=0.111;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="Kl7VoFIh9Dd8XK4XTmcx-4" target="Kl7VoFIh9Dd8XK4XTmcx-5" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kl7VoFIh9Dd8XK4XTmcx-22" value="SISTEMA CCSO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=21;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="285" y="45" width="180" height="40" as="geometry" />
+          <mxGeometry x="300" y="45" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Kl7VoFIh9Dd8XK4XTmcx-23" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="Kl7VoFIh9Dd8XK4XTmcx-26" target="Kl7VoFIh9Dd8XK4XTmcx-2" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
